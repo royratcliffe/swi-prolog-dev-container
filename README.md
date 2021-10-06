@@ -1,6 +1,6 @@
 # SWI Prolog Dev Container
 
-Sets up SWI Prolog in a VS Code development container.
+Sets up SWI Prolog in a VS Code [development container](https://code.visualstudio.com/docs/remote/containers).
 
 ## X11 and Emacs
 
