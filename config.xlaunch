@@ -18,5 +18,5 @@
     ClipboardPrimary="True"
     ExtraParams=""
     Wgl="True"
-    DisableAC="False"
+    DisableAC="True"
     XDMCPTerminate="False"/>
