@@ -20,7 +20,9 @@ The container sets up `DISPLAY` for X11 connectivity.
 
 You can then run the `emacs` predicate, e.g.
 
-    $ swipl -g emacs
+```bash
+$ swipl -g emacs
+```
 
 or, of course, you can launch it and other graphical Prolog tools from the
 ubiquitous _Do What I Mean_ prompt.
