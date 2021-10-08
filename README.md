@@ -14,7 +14,7 @@ The container sets up `DISPLAY` for X11 connectivity.
 
 ```json
 "runArgs": [
-	"-e", "DISPLAY=host.docker.internal:0"
+    "-e", "DISPLAY=host.docker.internal:0"
 ],
 ```
 
