@@ -12,9 +12,11 @@ Code.
 
 The container sets up `DISPLAY` for X11 connectivity.
 
-	"runArgs": [
-		"-e", "DISPLAY=host.docker.internal:0"
-	],
+```json
+"runArgs": [
+	"-e", "DISPLAY=host.docker.internal:0"
+],
+```
 
 You can then run the `emacs` predicate, e.g.
 
